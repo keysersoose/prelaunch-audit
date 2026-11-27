@@ -1,0 +1,23 @@
+{
+  "name": "prelaunch-audit",
+  "description": "Pre-launch audit skills for AI-built web apps.",
+  "owner": {
+    "name": "keysersoose"
+  },
+  "plugins": [
+    {
+      "name": "prelaunch-audit",
+      "source": "./",
+      "description": "A read-only pre-launch check for AI-built web apps, with a findings table and a go / no-go verdict.",
+      "category": "security",
+      "tags": [
+        "security",
+        "audit",
+        "launch",
+        "nextjs",
+        "supabase",
+        "firebase"
+      ]
+    }
+  ]
+}
