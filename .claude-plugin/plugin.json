@@ -1,0 +1,24 @@
+{
+  "name": "prelaunch-audit",
+  "displayName": "Prelaunch Audit",
+  "version": "0.1.0",
+  "description": "A read-only pre-launch check for AI-built web apps: leaked secrets, database access rules, server code, deploy settings and the user interface, ending in one findings table and a go / no-go verdict.",
+  "author": {
+    "name": "keysersoose"
+  },
+  "homepage": "https://github.com/keysersoose/prelaunch-audit",
+  "repository": "https://github.com/keysersoose/prelaunch-audit",
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "audit",
+    "launch",
+    "checklist",
+    "nextjs",
+    "supabase",
+    "firebase",
+    "vercel",
+    "vibe-coding",
+    "accessibility"
+  ]
+}
